@@ -1,0 +1,7 @@
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1EchoTCP\obj\Debug\Task1EchoTCP.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1EchoTCP\obj\Debug\Task1EchoTCP.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1EchoTCP\bin\Debug\Task1EchoTCP.exe.config
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1EchoTCP\bin\Debug\Task1EchoTCP.exe
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1EchoTCP\bin\Debug\Task1EchoTCP.pdb
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1EchoTCP\obj\Debug\Task1EchoTCP.exe
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1EchoTCP\obj\Debug\Task1EchoTCP.pdb
