@@ -1,0 +1,6 @@
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1Client\bin\Debug\Task1Client.exe.config
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1Client\bin\Debug\Task1Client.exe
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1Client\bin\Debug\Task1Client.pdb
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1Client\obj\Debug\Task1Client.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1Client\obj\Debug\Task1Client.exe
+C:\Users\ivano\source\repos\Task1EchoTCP\Task1Client\obj\Debug\Task1Client.pdb
